@@ -3,4 +3,4 @@ project(Progetto)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Progetto main.cpp Tabella.cpp Colonna.cpp data.cpp)
+add_executable(Progetto main.cpp Tabella.cpp Colonna.cpp data.cpp Record.cpp Record.h)
